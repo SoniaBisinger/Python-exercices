@@ -5,3 +5,5 @@
 -> Day 19 - 17.07.23 - For loop. Done a loan calculator. Learned round(x, 2).
 
 -> Day 20 - 18.07-23 - For loop2. Inserting start value, end value and icrementation.
+
+-> Day 21 - 19.07.23 - Math Game.
