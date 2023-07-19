@@ -9,4 +9,4 @@ for i in range(10):
     if result == answer:
         print("Great work!")
     else:
-        print(f"Nope! :( The answer was {result})")
+        print(f"Nope! 🙁 The answer was {result})")
