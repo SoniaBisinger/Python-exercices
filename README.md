@@ -7,3 +7,7 @@
 -> Day 20 - 18.07-23 - For loop2. Inserting start value, end value and icrementation.
 
 -> Day 21 - 19.07.23 - Math Game.
+
+-> Day 22 - 20.07.23 - Random function that i've done i the day 18
+
+-> Day 23 - 21.07.23 - Subroutine
