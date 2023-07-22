@@ -11,3 +11,5 @@
 -> Day 22 - 20.07.23 - Random function that i've done i the day 18
 
 -> Day 23 - 21.07.23 - Subroutine
+
+-> day 24 - 22.07.23 - Subroutine with parameters and "infinity dice" program. Again a while loop to ask if user want to play again.
