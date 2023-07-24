@@ -13,3 +13,6 @@
 -> Day 23 - 21.07.23 - Subroutine
 
 -> day 24 - 22.07.23 - Subroutine with parameters and "infinity dice" program. Again a while loop to ask if user want to play again.
+
+
+-> day 25 - 24.07.23 - Subroutine with parameters and return. Character stat generator. Learned how to output colors.
