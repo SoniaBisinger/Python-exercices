@@ -16,3 +16,5 @@
 
 
 -> day 25 - 24.07.23 - Subroutine with parameters and return. Character stat generator. Learned how to output colors.
+
+-> day 26 - 25.07.23 - Imported OS and TIME libraries. Learned how to use them and done a juke box.
