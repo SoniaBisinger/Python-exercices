@@ -18,3 +18,5 @@
 -> day 25 - 24.07.23 - Subroutine with parameters and return. Character stat generator. Learned how to output colors.
 
 -> day 26 - 25.07.23 - Imported OS and TIME libraries. Learned how to use them and done a juke box.
+
+-> day 27/28 - 27.07.2023 - Made an epic battle game! while loop, os, time and random libraries, functions with parameters.
