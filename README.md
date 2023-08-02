@@ -19,4 +19,6 @@
 
 -> day 26 - 25.07.23 - Imported OS and TIME libraries. Learned how to use them and done a juke box.
 
--> day 27/28 - 27.07.2023 - Made an epic battle game! while loop, os, time and random libraries, functions with parameters.
+-> day 27 - 27.07.2023 - Made an epic battle game! while loop, os, time and random libraries, functions with parameters.
+
+-> day 28 - 02.08.2023 - Continuing epic battle game. This time my players are figthing till death. Learned private methods, calling back methods and where to put OS and TIME callbacks.
